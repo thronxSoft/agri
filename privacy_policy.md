@@ -1,0 +1,58 @@
+Privacy Policy for Cardam Application 
+
+Last updated: [28-02-2026]
+
+Cardam (“we”, “our”, or “us”) operates the Cardam mobile application. This page informs users about our policies regarding the collection, use, and disclosure of information when using our Application.
+
+1. Information Collection and Use
+
+The Cardam application does not collect, store, or share any personal information.
+
+We do not collect:
+Name,
+Email address,
+Phone number,
+Location data,
+Photos or media,
+Any personally identifiable information,
+Users can use the application without providing any personal data.
+
+2. Permissions
+
+The Cardam application does not request any sensitive permissions, including:
+Location,
+Camera,
+Microphone,
+Storage,
+Contacts,
+The app functions independently without accessing user data.
+Internet Access: Required for update daily price and cardamom cultivation releated information.
+
+3. Third-Party Services
+
+The Cardam application does not use third-party services such as:
+Advertisements (AdMob or others)
+Analytics
+Login services
+Payment gateways
+Therefore, no data is shared with third parties.
+
+4. Data Security
+
+Since the application does not collect or store any user data, there is no risk of data misuse or unauthorized access.
+
+5. Children’s Privacy
+
+The Cardam application does not knowingly collect any personal information from children under the age of 13.
+Because no data is collected, the app is safe for all age groups.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be reflected on this page, and users are encouraged to review it periodically.
+
+7. Contact Us
+
+If you have any questions or suggestions about this Privacy Policy, you may contact us at:
+
+?? Email: [thronxsoft@gmail.com]
